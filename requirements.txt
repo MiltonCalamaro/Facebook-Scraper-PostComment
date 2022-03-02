@@ -1,0 +1,2 @@
+facebook-scraper==0.2.54
+pandas==1.4.1
