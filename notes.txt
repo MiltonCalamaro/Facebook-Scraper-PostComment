@@ -1,0 +1,2 @@
+ python .\scraper_facebook.py -q bcrpoficial -m account
+ python .\preprocessing.py -d '../results/posts.pkl'

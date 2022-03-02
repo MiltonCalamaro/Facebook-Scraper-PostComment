@@ -6,3 +6,4 @@ dict_options = {'comments': True,
 
 cookies = ('../conf/facebook.com_cookies.txt')
 
+PAGES = 1
